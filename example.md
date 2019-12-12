@@ -3,3 +3,8 @@
 * bullet 2
 
 `code example`
+```
+hello
+code
+block
+```
